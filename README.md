@@ -10,3 +10,6 @@ did my best to make it as optimised as possible to be able to run on embedded de
 
 # How it works:
 
+
+# references
+
